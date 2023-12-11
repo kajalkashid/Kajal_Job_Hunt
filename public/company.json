@@ -178,5 +178,23 @@
             "phone": "239-239-2399",
             "email": "amazon@career.com"
         }
+    },
+        {
+            "id": 11,
+            "company_logo": "https://s.yimg.com/fz/api/res/1.2/kTuCuNymFFYCDEbjIpNMMA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/545c8ec0-3681-34ac-87b6-8d689e6337f1/t_500x300",
+            "job_title": "Testmanager (m/w/d)",
+            "company_name": "IBM",
+            "remote_or_onsite": "Onsite",
+            "location": "Multiple Locations (All area)",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$75,000 - $120,000",
+            "job_description": "Would you like to be an Engineer that builds the Cloud, rather than an Engineer that just uses it? At AWS, our Engineers look after the behind-the-scenes software and tools that make the world's largest cloud computing infrastructure possible. We have an amazing opportunity for you to join a world-class network team in a dynamic environment that has the feel of a start-up. As a Site Reliability Engineer (SRE) you will help to deploy, manage, fix and reinvent the tools, services and components that the network engineers rely on to automate our network and keep it operational. Your internal customers are your network engineering colleagues, and through close collaboration, support and exchange of ideas, we share a common goal to serve our external customers and grow through learning and innovation.",
+            "job_responsibility": "Simplifying and reinventing systems, processes, and tools to make things better for our customers. Managing and growing innovative, production-quality tools to solve real operational problems for our network. Investigating technical issues scientifically and thoroughly, and assist in fixing them so they don't come back. Providing technical solutions to real business problems in a global organization",
+            "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+            "experiences": "2+ year of experience in a large – scale network environment",
+            "contact_information": {
+                "phone": "239-239-2479",
+                "email": "ibm@career.com"
+            }
     }
 ]
